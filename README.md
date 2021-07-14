@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Former freelance writer/editor turning to the world of Three.js
+
 <!--
 **stevenwmarks/stevenwmarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

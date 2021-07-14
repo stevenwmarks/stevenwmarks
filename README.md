@@ -2,7 +2,6 @@
 
 Former freelance writer/editor turning to the world of Three.js
 
-https://stevenwmarks.github.io/stevenwmarks/
 
 
 <!--

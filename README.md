@@ -4,8 +4,8 @@
 - Have worked my way through Bruno Simon's Three.js Journey course (which is remarkable) and starting to experiment
 - Expect that I will be using Blender and GSAP along the way
 - And Shaders which seems to be the solution to every problem
-- Person 1: "Can I do this?"
-- Person 2 "Yeah, but you'll have to write a shader."
+- Person 1:   "Can I do this?"
+- Person 2:   "Yeah, but you'll have to write a shader."
 
 
 

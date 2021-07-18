@@ -6,9 +6,6 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Markdown
-Looks like I will be learning Markdown which is a lot like markup in the copyediting world
-
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown

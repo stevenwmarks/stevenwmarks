@@ -2,6 +2,8 @@
 
 <a href="https://stevenwmarks.github.io/metalLight/">Metal and Light</a>
 
+<img src="https://github.com/stevenwmarks/spacetimeGrammar/blob/main/stgScreenShot.PNG" width="600">
+
 <a href="https://stevenwmarks.github.io/spacetimeGrammar/">Space-time Grammar</a>
 
 

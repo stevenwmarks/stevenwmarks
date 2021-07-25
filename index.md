@@ -3,7 +3,8 @@
 
 <a href="https://stevenwmarks.github.io/metalLight/">Metal and Light</a>
 
-<img src="https://github.com/stevenwmarks/spacetimeGrammar/blob/main/stgScreenShot.PNG" width="600">
+<!-- <img src="https://github.com/stevenwmarks/spacetimeGrammar/blob/main/stgScreenShot.PNG" width="600"> -->
+<img src="https://user-images.githubusercontent.com/29188589/126886199-e40faa9e-212b-44c2-bbca-5dfcdb2d3d9f.PNG" width="600">
 
 <a href="https://stevenwmarks.github.io/spacetimeGrammar/">Space-time Grammar</a>
 

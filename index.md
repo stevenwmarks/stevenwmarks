@@ -1,5 +1,5 @@
-<!-- <img src="https://user-images.githubusercontent.com/29188589/125689751-828a3be9-2cbd-4f6e-a568-9827662e4557.PNG" width="600"> -->
-<img src="https://github.com/stevenwmarks/metalLight/blob/main/mlScreenShot.PNG" width="600">
+<img src="https://user-images.githubusercontent.com/29188589/125689751-828a3be9-2cbd-4f6e-a568-9827662e4557.PNG" width="600">
+<!-- <img src="https://github.com/stevenwmarks/metalLight/blob/main/mlScreenShot.PNG" width="600"> -->
 
 <a href="https://stevenwmarks.github.io/metalLight/">Metal and Light</a>
 

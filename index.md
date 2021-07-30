@@ -8,6 +8,7 @@
 
 <a href="https://stevenwmarks.github.io/spacetimeGrammar/">Space-time Grammar</a>
 
+<img src="https://user-images.githubusercontent.com/29188589/127587461-b1b406a0-122b-44b4-a0c5-eab75b0626b6.PNG" width="600">
 <a href="https://stevenwmarks.github.io/northernLines/">Northern Lines</a>
 
 

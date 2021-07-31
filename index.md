@@ -1,42 +1,19 @@
 <img src="https://user-images.githubusercontent.com/29188589/125689751-828a3be9-2cbd-4f6e-a568-9827662e4557.PNG" width="600">
-<!-- <img src="https://github.com/stevenwmarks/metalLight/blob/main/mlScreenShot.PNG" width="600"> -->
+
 
 <a href="https://stevenwmarks.github.io/metalLight/">Metal and Light</a>
 
-<!-- <img src="https://github.com/stevenwmarks/spacetimeGrammar/blob/main/stgScreenShot.PNG" width="600"> -->
+
 <img src="https://user-images.githubusercontent.com/29188589/126886199-e40faa9e-212b-44c2-bbca-5dfcdb2d3d9f.PNG" width="600">
 
 <a href="https://stevenwmarks.github.io/spacetimeGrammar/">Space-time Grammar</a>
 
 <img src="https://user-images.githubusercontent.com/29188589/127587461-b1b406a0-122b-44b4-a0c5-eab75b0626b6.PNG" width="600">
+
 <a href="https://stevenwmarks.github.io/northernLines/">Northern Lines</a>
 
 
-
-<!-- You can use the [editor on GitHub](https://github.com/stevenwmarks/stevenwmarks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
-
-<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+<!-- 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -45,4 +22,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.  -->
